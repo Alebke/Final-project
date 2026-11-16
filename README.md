@@ -1,10 +1,10 @@
-CMPINF-0010-Final-project
+**CMPINF-0010-Final-project**
 
 Team Name: ACD
 Group Number: 7
 
 Names - Emails:
-Caleb Mwaniki - 
+Caleb Mwaniki - cam1033@pitt.edu
 Alexander Ulrich - 
 Dylan Yates - dhy10@pitt.edu
 
